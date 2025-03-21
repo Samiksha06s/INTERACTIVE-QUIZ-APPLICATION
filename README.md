@@ -33,3 +33,16 @@ Technologies Used -
 HTML: Structure of the app
 CSS: Styling and design of the app
 JavaScript: Logic and functionality for the quiz
+
+
+OUTPUT : 
+
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/35b66698-c20e-4418-889e-8b7779c235ca" />
+
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/77c990c1-1197-4a05-99bf-04fdd89ba3be" />
+
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/c7c1bc36-de4b-4f3a-93a6-c127ef0acfc5" />
+
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/6f48624b-0974-4bcf-9e92-18f6d2e7e2bd" />
+
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/85b75e44-e76f-4344-a33a-43d4ca2d2c08" />
