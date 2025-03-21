@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive Quiz Application</title>
+  <link rel="stylesheet" href="style.css">
+  
+</head>
+<body>
+
+  <div id="welcome-page">
+    <h1>Welcome to the JavaScript Quiz!</h1>
+    <p>Ready to test your JavaScript knowledge? Let's go!</p>
+    <input type="text" id="username-input" placeholder="Enter your name" />
+    <button id="start-button">Start Quiz</button>
+    <p id="greeting-message" style="display:none;"></p>
+  </div>
+
+  <div id="quiz-container" style="display: none;">
+    <h1>JavaScript Quiz</h1>
+    <div id="question-container"></div>
+    <div id="options-container"></div>
+    <button id="next-button" style="display: none;">Next Question →</button>
+    <div id="result-container" style="display: none;"></div>
+  </div>
+
+  <script src="quiz.js"></script>
+</body>
+</html>
